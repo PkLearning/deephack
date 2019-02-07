@@ -11,8 +11,9 @@ DeepHack
 
 ## Dependencies
 
-sudo apt install virtualenv libpq-dev
-sudo pip3 install keras tensorflow
+`sudo apt install virtualenv libpq-dev`
+
+`sudo pip3 install keras tensorflow`
 
 ## DESCRIPTION
 
